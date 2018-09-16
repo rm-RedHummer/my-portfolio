@@ -8,12 +8,8 @@
       <div class="col-9 my-auto">
         <home></home>
       </div>
-      <div class="col-9 offset-3">
-        <h1 style="height:800px;">hello</h1>
-      </div>
-
     </div>
-    <div class="bg-overflow mx-0 px-0"></div>
+
 
   </div>
 </template>
